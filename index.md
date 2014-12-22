@@ -2,5 +2,5 @@
 layout: default
 ---
 #Dawn's Favourite Foods
-Lasagna
-Muffins
+- Lasagna
+- Muffins
