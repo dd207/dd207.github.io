@@ -1,5 +1,6 @@
 ---
+layout: default
 ---
-
-#Hello from Jekyll
+#Dawn's Favourite Foods
+Lasagna
 Muffins
